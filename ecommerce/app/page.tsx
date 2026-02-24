@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly. This is a great way to get started with Next.js.</li>
+          <li>Save and see your changes instantly. This is a great way to get started with Next.js. Just get started.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
